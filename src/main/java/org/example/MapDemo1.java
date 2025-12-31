@@ -3,7 +3,7 @@ package org.example;
 import java.util.HashMap;
 import java.util.Map;
 
-public class MapDome1 {
+public class MapDemo1 {
     /*
     map的常用api
     1.添加元素

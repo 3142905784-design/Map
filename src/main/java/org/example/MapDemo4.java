@@ -3,7 +3,7 @@ package org.example;
 import java.util.HashMap;
 import java.util.Map;
 
-public class MapDome4 {
+public class MapDemo4 {
     /*
     map的第三种遍历方式：ForEach方法
      public void forEach(BiConsumer<? super K,? super V> action):void

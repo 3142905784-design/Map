@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class MapDome3 {
+public class MapDemo3 {
     /*
     map的第二种遍历方式：键值对对象找值
      */

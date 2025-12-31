@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class MapDome2 {
+public class MapDemo2 {
     /*
     map的第一种遍历方式：键找值
     public V get(Object key):通过key获取对应的value值
